@@ -1,0 +1,1 @@
+Retirar o ícone de atalho do build e o player.dll de dentro da pasta Auschwitz: 1944_data para poder jogar o game.
